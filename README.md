@@ -9,3 +9,4 @@ A collection of resources on how to facilitate Machine Learning Ops with GitHub.
 https://mlops.githubapp.com/<BR>
 https://github.com/machine-learning-apps/ml-template-azure<BR>
 https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/<br>
+https://blog.revolutionanalytics.com/2020/08/mlops-with-r-and-github-actions.html <br>  
